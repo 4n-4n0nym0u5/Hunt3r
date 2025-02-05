@@ -1,2 +1,2 @@
 # Hunt3r
-Hunt3r - An Automatic Pentesting Tool
+Hunt3r - An Automated Penetration Testing Framework
